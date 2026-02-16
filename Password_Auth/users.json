@@ -1,0 +1,7 @@
+{
+    "prajwal": {
+        "hash": "$argon2id$v=19$m=65536,t=3,p=4$CCqlqkf0tKAHvQIDrynsRA$Cs4n9IWzhjKtwxwVycgNi/S/mpljvPVHGtP6S9adOaU",
+        "attempts": 0,
+        "locked_until": null
+    }
+}
